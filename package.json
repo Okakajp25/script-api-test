@@ -2,7 +2,9 @@
   "dependencies": {
     "@minecraft/server": "^1.6.0",
     "generator-code": "^1.8.0",
+    "n": "^9.2.0",
     "node": "^20.5.0",
-    "npm": "^10.2.3"
+    "npm": "^10.2.3",
+    "v": "^0.3.0"
   }
 }
